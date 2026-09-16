@@ -11,6 +11,19 @@ Construyo aplicaciones web y móviles, APIs y soluciones que conectan software c
 - **Sistemas operativos:** RFID, inventario y flujos de recepción y picking.
 - **Cloud y automatización:** arquitectura en AWS y herramientas de desarrollo con agentes de IA.
 
+## Lenguajes y tecnologías
+
+| Área | Tecnologías |
+| --- | --- |
+| Lenguajes | C#, TypeScript, JavaScript, Kotlin y SQL |
+| Backend | .NET, ASP.NET Core, APIs REST, BFFs y SignalR |
+| Frontend | Angular, HTML, CSS y aplicaciones PWA |
+| Android | Kotlin, Jetpack Compose y lectores RFID |
+| Datos | SQL Server, Azure SQL y procedimientos almacenados |
+| Cloud y herramientas | AWS, Git, GitHub y Azure DevOps |
+| Seguridad e integración | JWT, OAuth 2.0, OpenID Connect y comunicación en tiempo real |
+| Automatización | Agentes de IA, herramientas CLI y documentación con Markdown/Mermaid |
+
 ## Cómo trabajo
 
 Arquitectura hexagonal, contratos claros, autenticación segura, observabilidad y pruebas enfocadas en el comportamiento. Acompaño los cambios con documentación técnica y trazabilidad.
@@ -31,6 +44,19 @@ I build web and mobile applications, APIs, and solutions that connect software w
 - **Web & mobile:** Angular applications and native Android development.
 - **Operational systems:** RFID, inventory, receiving, and picking workflows.
 - **Cloud & automation:** AWS architecture and development tools powered by AI agents.
+
+## Languages & technologies
+
+| Area | Technologies |
+| --- | --- |
+| Languages | C#, TypeScript, JavaScript, Kotlin, and SQL |
+| Backend | .NET, ASP.NET Core, REST APIs, BFFs, and SignalR |
+| Frontend | Angular, HTML, CSS, and PWAs |
+| Android | Kotlin, Jetpack Compose, and RFID readers |
+| Data | SQL Server, Azure SQL, and stored procedures |
+| Cloud & tools | AWS, Git, GitHub, and Azure DevOps |
+| Security & integration | JWT, OAuth 2.0, OpenID Connect, and real-time communication |
+| Automation | AI agents, CLI tools, and Markdown/Mermaid documentation |
 
 I value hexagonal architecture, clear contracts, secure authentication, observability, focused tests, and technical documentation.
 
