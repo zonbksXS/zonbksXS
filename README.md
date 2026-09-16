@@ -1,3 +1,5 @@
+![Arquitectura de software, automatización e integración de sistemas](https://github.com/user-attachments/assets/8e96c87d-51b6-4dd2-a21d-884c4bb28560)
+
 # Hola, soy zonbks 👋
 
 **Desarrollo de software · Arquitectura · Integración de sistemas**
@@ -15,13 +17,14 @@ Construyo aplicaciones web y móviles, APIs y soluciones que conectan software c
 
 | Área | Tecnologías |
 | --- | --- |
-| Lenguajes | C#, TypeScript, JavaScript, Kotlin y SQL |
+| Lenguajes | C#, TypeScript, JavaScript, Python, Kotlin y SQL |
 | Backend | .NET, ASP.NET Core, APIs REST, BFFs y SignalR |
 | Frontend | Angular, HTML, CSS y aplicaciones PWA |
 | Android | Kotlin, Jetpack Compose y lectores RFID |
 | Datos | SQL Server, Azure SQL y procedimientos almacenados |
 | Cloud y herramientas | AWS, Git, GitHub y Azure DevOps |
 | Seguridad e integración | JWT, OAuth 2.0, OpenID Connect y comunicación en tiempo real |
+| Python y Node.js | Scripts, procesamiento de documentos, herramientas de desarrollo y automatización |
 | Automatización | Agentes de IA, herramientas CLI y documentación con Markdown/Mermaid |
 
 ## Cómo trabajo
@@ -49,13 +52,14 @@ I build web and mobile applications, APIs, and solutions that connect software w
 
 | Area | Technologies |
 | --- | --- |
-| Languages | C#, TypeScript, JavaScript, Kotlin, and SQL |
+| Languages | C#, TypeScript, JavaScript, Python, Kotlin, and SQL |
 | Backend | .NET, ASP.NET Core, REST APIs, BFFs, and SignalR |
 | Frontend | Angular, HTML, CSS, and PWAs |
 | Android | Kotlin, Jetpack Compose, and RFID readers |
 | Data | SQL Server, Azure SQL, and stored procedures |
 | Cloud & tools | AWS, Git, GitHub, and Azure DevOps |
 | Security & integration | JWT, OAuth 2.0, OpenID Connect, and real-time communication |
+| Python & Node.js | Scripts, document processing, development tools, and automation |
 | Automation | AI agents, CLI tools, and Markdown/Mermaid documentation |
 
 I value hexagonal architecture, clear contracts, secure authentication, observability, focused tests, and technical documentation.
